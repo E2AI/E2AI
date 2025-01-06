@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, especilaly edge AI.
 - 🌱 I’m currently learning Ebemeded AI for customerization HW.
 - 💞️ I’m looking to collaborate on edge AI
-- 📫 You can reach me with mail: 
+- 📫 You can reach me with mail: yli66@yahoo.com
 
 
 <!---
